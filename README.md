@@ -6,6 +6,7 @@
 
 ```sh
 brew tap wangliyangleon/pzt
+brew trust wangliyangleon/pzt   # Homebrew 6+ 对第三方 tap 的一次性信任门
 brew install pzt
 ```
 
